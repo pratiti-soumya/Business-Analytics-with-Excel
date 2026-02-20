@@ -1,6 +1,6 @@
-# 📊 E-Commerce Profitability Analysis (2024–2025)
+# 📊 Business Analytics with Excel: E-Commerce Profitability Analysis (2024–2025)
 
-## 🧠 Business Context
+## Business Context
 
 
 In this project, I work on dummy data to analyze the financial performance of an e-commerce company. The business context is that while sales are increasing, profits have started to stagnate. I also propose data-driven recommendations for 2026.
@@ -122,9 +122,10 @@ This confirms strong and consistent customer demand.
 
 ---
 
-## 📎 Files Included
+## Files Included
 
 - Excel dashboard (dynamic P&L + product analysis)  
 - Executive presentation summarizing findings  
 
 ---
+Medium Article: https://medium.com/@pratitisoumya/when-sales-grow-but-profits-stall-a-profitability-analysis-2ca76b44b705
