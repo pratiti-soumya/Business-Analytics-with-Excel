@@ -65,7 +65,7 @@ I built a dynamic P&L dashboard allowing year selection.
 - Net earnings remained almost flat  
 
 **Conclusion:**  
-Revenue growth alone was not translating into profit growth since costs increased faster. This led to net earnings falling flat.
+Sales grew, but gross margin fell from 33.9% → 31.7%, indicating COGS pressure.
 
 ---
 
