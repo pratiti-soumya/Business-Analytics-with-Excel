@@ -69,18 +69,10 @@ Sales grew, but gross margin fell from 33.9% → 31.7%, indicating COGS pressure
 
 ---
 
-## 📊 Monthly Financial Trends
-
-- Gross profit exceeded 2024 in only 5 out of 12 months  
-- Expenses remained relatively stable  
-- Cumulative year-end earnings were similar
----
-
 ## 📉 EBIT & EBITDA Analysis
 
 - EBIT and EBITDA remained nearly unchanged year over year  
-- The small gap between them suggests limited depreciation and amortization  
-- This aligns with a low-asset drop-shipping business model of the e-commerce company
+- The close alignment between EBIT and EBITDA suggests business model has limited depreciation and amortization due to less assets, which aligns with the "drop-shipping" model of the company
 
 ---
 
@@ -109,39 +101,24 @@ This confirms strong and consistent customer demand.
 ### 1️⃣ Protect Gross Margins
 
 - Renegotiate supplier pricing for Products 1 & 3  
-- Consider selective price increases on high-demand SKUs  
-- Monitor COGS growth relative to sales  
+- Consider selective price increases on high-demand SKUs (esp. Product 3), to offset rising COGS without materially impacting volume.
 
 ---
 
 ### 2️⃣ Reassess Product 2
 
-- Reduce or pause marketing spend  
-- Evaluate repositioning or discontinuation  
-- Conduct deeper cost breakdown  
+- Reduce or pause marketing spend for Product 2
+- Do comprehensive cost analysis breakdown for Product 2
+- Allocate incremental marketing spend toward Product 3
+- Test bundling Product 3 with Product 1 to lift margins
 
 ---
 
 ### 3️⃣ Improve Marketing Efficiency
 
-- Allocate incremental spend toward Product 3  
-- Prioritize Product 1 (strongest profitability growth)  
-- Run A/B pricing tests  
-- Optimize marketing during high-margin months  
-
----
-
-## 🧾 Final Takeaway
-
-The company did not have a revenue problem.
-
-It had:
-
-- A margin problem  
-- A product mix problem  
-- A marketing allocation problem  
-
-Sustainable profit growth will require better cost control, smarter product focus, and disciplined marketing investment.
+- Prioritize marketing spend on Product 1 (highest profitability growth) and Product 3 (highest demand and volume), while reducing spend on Product 2
+- Run AB tests on offering Product 1 as a premium offering
+- Reduce spend during low-margin months
 
 ---
 
